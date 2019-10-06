@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Demo 2",
+"dataUrl": "Car App Final.data.unityweb",
+"asmCodeUrl": "Car App Final.asm.code.unityweb",
+"asmMemoryUrl": "Car App Final.asm.memory.unityweb",
+"asmFrameworkUrl": "Car App Final.asm.framework.unityweb",
+"TOTAL_MEMORY": 218103808,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
